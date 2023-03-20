@@ -24,6 +24,10 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"leaflet": "^1.9.3"
+		"@sveltejs/adapter-node": "^1.2.3",
+		"@types/ws": "^8.5.4",
+		"leaflet": "^1.9.3",
+		"socket.io": "^4.6.1",
+		"ws": "^8.13.0"
 	}
 }
